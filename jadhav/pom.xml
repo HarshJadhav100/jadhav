@@ -43,7 +43,7 @@
                 <configuration>
                     <url>http://localhost:9999/manager/text</url>
                     <server>TomcatServer</server>
-                    <path>/jadhav</path>
+                    <path>/jadhav1</path>
                 </configuration>
             </plugin>
         </plugins>
