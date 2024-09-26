@@ -8,7 +8,7 @@
     <artifactId>jadhav</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>jadhav Maven Webapp</name>
+    <name>jadhav1 Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
 
@@ -43,7 +43,7 @@
                 <configuration>
                     <url>http://localhost:9999/manager/text</url>
                     <server>TomcatServer</server>
-                    <path>/jadhav1</path>
+                    <path>/jadhav1/WEB-INF/classes/webapp/WEB-INF/index.jsp</path>
                 </configuration>
             </plugin>
         </plugins>
